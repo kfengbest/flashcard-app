@@ -1,0 +1,13 @@
+.cardRow{
+  margin-top: 10%;
+  padding: 5px;
+}
+
+.btnRow{
+  margin: 5px;
+}
+
+.btnGroup{
+  display: flex;
+  justify-content: space-between;
+}
